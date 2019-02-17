@@ -4,7 +4,7 @@ function add(a, b){
 }
 
 function subtract(a, b){
-  var result = (b - a)
+  var result = (a - b)
   return result
 }
 
