@@ -31,7 +31,10 @@ function multiply(a,b){
   return a * b
 }
 
-function 
+function preserveDecimal(n){
+  var dec = 'hello!'
+  return parseFloat(dec)
+}
 
 
 
