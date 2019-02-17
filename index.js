@@ -23,7 +23,8 @@ function dec(n){
 }
 
 function makeInt(n){
-  return parseInt(n)
+  var result = n
+  return parseInt(result)
 }
 
 function multiply(a,b){
