@@ -32,9 +32,9 @@ function multiply(a,b){
 }
 
 function preserveDecimal(n){
-  var dec = 'hello!'
-  return parseFloat(dec)
+  return parseFloat(n)
 }
+preserveDecimal("Hello!")
 
 function preserveDecimal(n){
   var dec = '2.2'
