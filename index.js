@@ -37,7 +37,7 @@ function preserveDecimal(n){
 }
 
 function preserveDecimal(n){
-  var dec = '2'
+  var dec = '2.2'
   return parseFloat(dec)
 }
 
