@@ -36,6 +36,10 @@ function preserveDecimal(n){
   return parseFloat(dec)
 }
 
+function preserveDecimal(n){
+  var dec = '2'
+  return parseFloat(dec)
+}
 
 
 
